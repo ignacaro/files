@@ -1,8 +1,10 @@
 brand_family,pack,subcanal,unidades_bulto
 1890,1 Lts-Bottle-RET,Autoservicio Cadena,12
 1890,1 Lts-Bottle-RET,Autoservicio Independiente,12
+1890,1 Lts-Bottle-RET,Autoservicio Bc,12
 1890,1 Lts-Bottle-RET,Kiosco Despensa,12
 1890,1 Lts-Bottle-RET,Kiosco Bar,12
+1890,1 Lts-Bottle-RET,Bar,12
 1890,1 Lts-Bottle-RET,Almacen Autoservice,12
 1890,1 Lts-Bottle-RET,Almacen,12
 1890,1 Lts-Bottle-RET,Kiosco/maxikiosco,12
@@ -21,6 +23,7 @@ brand_family,pack,subcanal,unidades_bulto
 1890,1 Lts-Bottle-RET,Vinoteca,12
 1890,1/2 Lts-Cans,Kiosco Despensa,6
 1890,1/2 Lts-Cans,Kiosco Bar,6
+1890,1/2 Lts-Cans,Bar,6
 1890,1/2 Lts-Cans,Almacen Autoservice,6
 1890,1/2 Lts-Cans,Almacen,6
 1890,1/2 Lts-Cans,Kiosco/maxikiosco,6
@@ -39,8 +42,10 @@ brand_family,pack,subcanal,unidades_bulto
 1890,1/2 Lts-Cans,Vinoteca,6
 1890,1/2 Lts-Cans,Autoservicio Cadena,24
 1890,1/2 Lts-Cans,Autoservicio Independiente,24
+1890,1/2 Lts-Cans,Autoservicio Bc,24
 27 Eazy,1/2 Lts-Cans,Kiosco Despensa,6
 27 Eazy,1/2 Lts-Cans,Kiosco Bar,6
+27 Eazy,1/2 Lts-Cans,Bar,6
 27 Eazy,1/2 Lts-Cans,Almacen Autoservice,6
 27 Eazy,1/2 Lts-Cans,Almacen,6
 27 Eazy,1/2 Lts-Cans,Kiosco/maxikiosco,6
@@ -59,10 +64,13 @@ brand_family,pack,subcanal,unidades_bulto
 27 Eazy,1/2 Lts-Cans,Vinoteca,6
 27 Eazy,1/2 Lts-Cans,Autoservicio Cadena,24
 27 Eazy,1/2 Lts-Cans,Autoservicio Independiente,24
+27 Eazy,1/2 Lts-Cans,Autoservicio Bc,24
 27 Lager,1/2 Lts-Cans,Autoservicio Cadena,24
 27 Lager,1/2 Lts-Cans,Autoservicio Independiente,24
+27 Lager,1/2 Lts-Cans,Autoservicio Bc,24
 27 Lager,1/2 Lts-Cans,Kiosco Despensa,24
 27 Lager,1/2 Lts-Cans,Kiosco Bar,24
+27 Lager,1/2 Lts-Cans,Bar,24
 27 Lager,1/2 Lts-Cans,Almacen Autoservice,24
 27 Lager,1/2 Lts-Cans,Almacen,24
 27 Lager,1/2 Lts-Cans,Kiosco/maxikiosco,24
@@ -81,8 +89,10 @@ brand_family,pack,subcanal,unidades_bulto
 27 Lager,1/2 Lts-Cans,Vinoteca,24
 Andes,1 Lts-Bottle-RET,Autoservicio Cadena,12
 Andes,1 Lts-Bottle-RET,Autoservicio Independiente,12
+Andes,1 Lts-Bottle-RET,Autoservicio Bc,12
 Andes,1 Lts-Bottle-RET,Kiosco Despensa,12
 Andes,1 Lts-Bottle-RET,Kiosco Bar,12
+Andes,1 Lts-Bottle-RET,Bar,12
 Andes,1 Lts-Bottle-RET,Almacen Autoservice,12
 Andes,1 Lts-Bottle-RET,Almacen,12
 Andes,1 Lts-Bottle-RET,Kiosco/maxikiosco,12
@@ -101,8 +111,10 @@ Andes,1 Lts-Bottle-RET,Verduleria,12
 Andes,1 Lts-Bottle-RET,Vinoteca,12
 Andes,1/2 Lts-Cans,Autoservicio Cadena,24
 Andes,1/2 Lts-Cans,Autoservicio Independiente,24
+Andes,1/2 Lts-Cans,Autoservicio Bc,24
 Andes,1/2 Lts-Cans,Kiosco Despensa,24
 Andes,1/2 Lts-Cans,Kiosco Bar,24
+Andes,1/2 Lts-Cans,Bar,24
 Andes,1/2 Lts-Cans,Almacen Autoservice,24
 Andes,1/2 Lts-Cans,Almacen,24
 Andes,1/2 Lts-Cans,Kiosco/maxikiosco,24
@@ -121,8 +133,10 @@ Andes,1/2 Lts-Cans,Verduleria,24
 Andes,1/2 Lts-Cans,Vinoteca,24
 Andes Origen,1 Lts-Bottle-RET,Autoservicio Cadena,12
 Andes Origen,1 Lts-Bottle-RET,Autoservicio Independiente,12
+Andes Origen,1 Lts-Bottle-RET,Autoservicio Bc,12
 Andes Origen,1 Lts-Bottle-RET,Kiosco Despensa,12
 Andes Origen,1 Lts-Bottle-RET,Kiosco Bar,12
+Andes Origen,1 Lts-Bottle-RET,Bar,12
 Andes Origen,1 Lts-Bottle-RET,Almacen Autoservice,12
 Andes Origen,1 Lts-Bottle-RET,Almacen,12
 Andes Origen,1 Lts-Bottle-RET,Kiosco/maxikiosco,12
@@ -141,6 +155,7 @@ Andes Origen,1 Lts-Bottle-RET,Verduleria,12
 Andes Origen,1 Lts-Bottle-RET,Vinoteca,12
 Andes Origen,1/2 Lts-Cans,Kiosco Despensa,6
 Andes Origen,1/2 Lts-Cans,Kiosco Bar,6
+Andes Origen,1/2 Lts-Cans,Bar,6
 Andes Origen,1/2 Lts-Cans,Almacen Autoservice,6
 Andes Origen,1/2 Lts-Cans,Almacen,6
 Andes Origen,1/2 Lts-Cans,Kiosco/maxikiosco,6
@@ -159,10 +174,13 @@ Andes Origen,1/2 Lts-Cans,Verduleria,6
 Andes Origen,1/2 Lts-Cans,Vinoteca,6
 Andes Origen,1/2 Lts-Cans,Autoservicio Cadena,24
 Andes Origen,1/2 Lts-Cans,Autoservicio Independiente,24
+Andes Origen,1/2 Lts-Cans,Autoservicio Bc,24
 Andes Origen,1/3 Lts-Bottle-RET,Autoservicio Cadena,24
 Andes Origen,1/3 Lts-Bottle-RET,Autoservicio Independiente,24
+Andes Origen,1/3 Lts-Bottle-RET,Autoservicio Bc,24
 Andes Origen,1/3 Lts-Bottle-RET,Kiosco Despensa,24
 Andes Origen,1/3 Lts-Bottle-RET,Kiosco Bar,24
+Andes Origen,1/3 Lts-Bottle-RET,Bar,24
 Andes Origen,1/3 Lts-Bottle-RET,Almacen Autoservice,24
 Andes Origen,1/3 Lts-Bottle-RET,Almacen,24
 Andes Origen,1/3 Lts-Bottle-RET,Kiosco/maxikiosco,24
@@ -181,8 +199,10 @@ Andes Origen,1/3 Lts-Bottle-RET,Verduleria,24
 Andes Origen,1/3 Lts-Bottle-RET,Vinoteca,24
 Andes Origen,1/4 Lts-Cans,Autoservicio Cadena,20
 Andes Origen,1/4 Lts-Cans,Autoservicio Independiente,20
+Andes Origen,1/4 Lts-Cans,Autoservicio Bc,20
 Andes Origen,1/4 Lts-Cans,Kiosco Despensa,20
 Andes Origen,1/4 Lts-Cans,Kiosco Bar,20
+Andes Origen,1/4 Lts-Cans,Bar,20
 Andes Origen,1/4 Lts-Cans,Almacen Autoservice,20
 Andes Origen,1/4 Lts-Cans,Almacen,20
 Andes Origen,1/4 Lts-Cans,Kiosco/maxikiosco,20
@@ -201,8 +221,10 @@ Andes Origen,1/4 Lts-Cans,Verduleria,20
 Andes Origen,1/4 Lts-Cans,Vinoteca,20
 Andes Origen,20 Lts-Barrel,Autoservicio Cadena,1
 Andes Origen,20 Lts-Barrel,Autoservicio Independiente,1
+Andes Origen,20 Lts-Barrel,Autoservicio Bc,1
 Andes Origen,20 Lts-Barrel,Kiosco Despensa,1
 Andes Origen,20 Lts-Barrel,Kiosco Bar,1
+Andes Origen,20 Lts-Barrel,Bar,1
 Andes Origen,20 Lts-Barrel,Almacen Autoservice,1
 Andes Origen,20 Lts-Barrel,Almacen,1
 Andes Origen,20 Lts-Barrel,Kiosco/maxikiosco,1
@@ -221,8 +243,10 @@ Andes Origen,20 Lts-Barrel,Verduleria,1
 Andes Origen,20 Lts-Barrel,Vinoteca,1
 Brahma,1 Lts-Bottle-RET,Autoservicio Cadena,12
 Brahma,1 Lts-Bottle-RET,Autoservicio Independiente,12
+Brahma,1 Lts-Bottle-RET,Autoservicio Bc,12
 Brahma,1 Lts-Bottle-RET,Kiosco Despensa,12
 Brahma,1 Lts-Bottle-RET,Kiosco Bar,12
+Brahma,1 Lts-Bottle-RET,Bar,12
 Brahma,1 Lts-Bottle-RET,Almacen Autoservice,12
 Brahma,1 Lts-Bottle-RET,Almacen,12
 Brahma,1 Lts-Bottle-RET,Kiosco/maxikiosco,12
@@ -241,8 +265,10 @@ Brahma,1 Lts-Bottle-RET,Verduleria,12
 Brahma,1 Lts-Bottle-RET,Vinoteca,12
 Brahma,1.2 Lts-Bottle-RET,Autoservicio Cadena,10
 Brahma,1.2 Lts-Bottle-RET,Autoservicio Independiente,10
+Brahma,1.2 Lts-Bottle-RET,Autoservicio Bc,10
 Brahma,1.2 Lts-Bottle-RET,Kiosco Despensa,10
 Brahma,1.2 Lts-Bottle-RET,Kiosco Bar,10
+Brahma,1.2 Lts-Bottle-RET,Bar,10
 Brahma,1.2 Lts-Bottle-RET,Almacen Autoservice,10
 Brahma,1.2 Lts-Bottle-RET,Almacen,10
 Brahma,1.2 Lts-Bottle-RET,Kiosco/maxikiosco,10
@@ -261,8 +287,10 @@ Brahma,1.2 Lts-Bottle-RET,Verduleria,10
 Brahma,1.2 Lts-Bottle-RET,Vinoteca,10
 Brahma,1/2 Lts-Cans,Autoservicio Cadena,24
 Brahma,1/2 Lts-Cans,Autoservicio Independiente,24
+Brahma,1/2 Lts-Cans,Autoservicio Bc,24
 Brahma,1/2 Lts-Cans,Kiosco Despensa,24
 Brahma,1/2 Lts-Cans,Kiosco Bar,24
+Brahma,1/2 Lts-Cans,Bar,24
 Brahma,1/2 Lts-Cans,Almacen Autoservice,24
 Brahma,1/2 Lts-Cans,Almacen,24
 Brahma,1/2 Lts-Cans,Kiosco/maxikiosco,24
@@ -281,8 +309,10 @@ Brahma,1/2 Lts-Cans,Verduleria,24
 Brahma,1/2 Lts-Cans,Vinoteca,24
 Brahma,1/3 Lts-Bottle-OW,Autoservicio Cadena,24
 Brahma,1/3 Lts-Bottle-OW,Autoservicio Independiente,24
+Brahma,1/3 Lts-Bottle-OW,Autoservicio Bc,24
 Brahma,1/3 Lts-Bottle-OW,Kiosco Despensa,24
 Brahma,1/3 Lts-Bottle-OW,Kiosco Bar,24
+Brahma,1/3 Lts-Bottle-OW,Bar,24
 Brahma,1/3 Lts-Bottle-OW,Almacen Autoservice,24
 Brahma,1/3 Lts-Bottle-OW,Almacen,24
 Brahma,1/3 Lts-Bottle-OW,Kiosco/maxikiosco,24
@@ -301,8 +331,10 @@ Brahma,1/3 Lts-Bottle-OW,Verduleria,24
 Brahma,1/3 Lts-Bottle-OW,Vinoteca,24
 Brahma,1/3 Lts-Bottle-RET,Autoservicio Cadena,24
 Brahma,1/3 Lts-Bottle-RET,Autoservicio Independiente,24
+Brahma,1/3 Lts-Bottle-RET,Autoservicio Bc,24
 Brahma,1/3 Lts-Bottle-RET,Kiosco Despensa,24
 Brahma,1/3 Lts-Bottle-RET,Kiosco Bar,24
+Brahma,1/3 Lts-Bottle-RET,Bar,24
 Brahma,1/3 Lts-Bottle-RET,Almacen Autoservice,24
 Brahma,1/3 Lts-Bottle-RET,Almacen,24
 Brahma,1/3 Lts-Bottle-RET,Kiosco/maxikiosco,24
@@ -321,8 +353,10 @@ Brahma,1/3 Lts-Bottle-RET,Verduleria,24
 Brahma,1/3 Lts-Bottle-RET,Vinoteca,24
 Brahma,1/3 Lts-Cans,Autoservicio Cadena,24
 Brahma,1/3 Lts-Cans,Autoservicio Independiente,24
+Brahma,1/3 Lts-Cans,Autoservicio Bc,24
 Brahma,1/3 Lts-Cans,Kiosco Despensa,24
 Brahma,1/3 Lts-Cans,Kiosco Bar,24
+Brahma,1/3 Lts-Cans,Bar,24
 Brahma,1/3 Lts-Cans,Almacen Autoservice,24
 Brahma,1/3 Lts-Cans,Almacen,24
 Brahma,1/3 Lts-Cans,Kiosco/maxikiosco,24
@@ -341,8 +375,10 @@ Brahma,1/3 Lts-Cans,Verduleria,24
 Brahma,1/3 Lts-Cans,Vinoteca,24
 Brahma,1/4 Lts-Cans,Autoservicio Cadena,24
 Brahma,1/4 Lts-Cans,Autoservicio Independiente,24
+Brahma,1/4 Lts-Cans,Autoservicio Bc,24
 Brahma,1/4 Lts-Cans,Kiosco Despensa,24
 Brahma,1/4 Lts-Cans,Kiosco Bar,24
+Brahma,1/4 Lts-Cans,Bar,24
 Brahma,1/4 Lts-Cans,Almacen Autoservice,24
 Brahma,1/4 Lts-Cans,Almacen,24
 Brahma,1/4 Lts-Cans,Kiosco/maxikiosco,24
@@ -361,8 +397,10 @@ Brahma,1/4 Lts-Cans,Verduleria,24
 Brahma,1/4 Lts-Cans,Vinoteca,24
 Brahma,3/4 Lts-Bottle-OW,Autoservicio Cadena,6
 Brahma,3/4 Lts-Bottle-OW,Autoservicio Independiente,6
+Brahma,3/4 Lts-Bottle-OW,Autoservicio Bc,6
 Brahma,3/4 Lts-Bottle-OW,Kiosco Despensa,6
 Brahma,3/4 Lts-Bottle-OW,Kiosco Bar,6
+Brahma,3/4 Lts-Bottle-OW,Bar,6
 Brahma,3/4 Lts-Bottle-OW,Almacen Autoservice,6
 Brahma,3/4 Lts-Bottle-OW,Almacen,6
 Brahma,3/4 Lts-Bottle-OW,Kiosco/maxikiosco,6
@@ -381,8 +419,10 @@ Brahma,3/4 Lts-Bottle-OW,Verduleria,6
 Brahma,3/4 Lts-Bottle-OW,Vinoteca,6
 Budweiser,1 Lts-Bottle-RET,Autoservicio Cadena,12
 Budweiser,1 Lts-Bottle-RET,Autoservicio Independiente,12
+Budweiser,1 Lts-Bottle-RET,Autoservicio Bc,12
 Budweiser,1 Lts-Bottle-RET,Kiosco Despensa,12
 Budweiser,1 Lts-Bottle-RET,Kiosco Bar,12
+Budweiser,1 Lts-Bottle-RET,Bar,12
 Budweiser,1 Lts-Bottle-RET,Almacen Autoservice,12
 Budweiser,1 Lts-Bottle-RET,Almacen,12
 Budweiser,1 Lts-Bottle-RET,Kiosco/maxikiosco,12
@@ -401,8 +441,10 @@ Budweiser,1 Lts-Bottle-RET,Verduleria,12
 Budweiser,1 Lts-Bottle-RET,Vinoteca,12
 Budweiser,1/2 Lts-Cans,Autoservicio Cadena,24
 Budweiser,1/2 Lts-Cans,Autoservicio Independiente,24
+Budweiser,1/2 Lts-Cans,Autoservicio Bc,24
 Budweiser,1/2 Lts-Cans,Kiosco Despensa,24
 Budweiser,1/2 Lts-Cans,Kiosco Bar,24
+Budweiser,1/2 Lts-Cans,Bar,24
 Budweiser,1/2 Lts-Cans,Almacen Autoservice,24
 Budweiser,1/2 Lts-Cans,Almacen,24
 Budweiser,1/2 Lts-Cans,Kiosco/maxikiosco,24
@@ -421,8 +463,10 @@ Budweiser,1/2 Lts-Cans,Verduleria,24
 Budweiser,1/2 Lts-Cans,Vinoteca,24
 Budweiser,1/3 Lts-Bottle-OW,Autoservicio Cadena,24
 Budweiser,1/3 Lts-Bottle-OW,Autoservicio Independiente,24
+Budweiser,1/3 Lts-Bottle-OW,Autoservicio Bc,24
 Budweiser,1/3 Lts-Bottle-OW,Kiosco Despensa,24
 Budweiser,1/3 Lts-Bottle-OW,Kiosco Bar,24
+Budweiser,1/3 Lts-Bottle-OW,Bar,24
 Budweiser,1/3 Lts-Bottle-OW,Almacen Autoservice,24
 Budweiser,1/3 Lts-Bottle-OW,Almacen,24
 Budweiser,1/3 Lts-Bottle-OW,Kiosco/maxikiosco,24
@@ -441,8 +485,10 @@ Budweiser,1/3 Lts-Bottle-OW,Verduleria,24
 Budweiser,1/3 Lts-Bottle-OW,Vinoteca,24
 Budweiser,1/3 Lts-Bottle-RET,Autoservicio Cadena,24
 Budweiser,1/3 Lts-Bottle-RET,Autoservicio Independiente,24
+Budweiser,1/3 Lts-Bottle-RET,Autoservicio Bc,24
 Budweiser,1/3 Lts-Bottle-RET,Kiosco Despensa,24
 Budweiser,1/3 Lts-Bottle-RET,Kiosco Bar,24
+Budweiser,1/3 Lts-Bottle-RET,Bar,24
 Budweiser,1/3 Lts-Bottle-RET,Almacen Autoservice,24
 Budweiser,1/3 Lts-Bottle-RET,Almacen,24
 Budweiser,1/3 Lts-Bottle-RET,Kiosco/maxikiosco,24
@@ -461,8 +507,10 @@ Budweiser,1/3 Lts-Bottle-RET,Verduleria,24
 Budweiser,1/3 Lts-Bottle-RET,Vinoteca,24
 Budweiser,1/3 Lts-Cans,Autoservicio Cadena,6
 Budweiser,1/3 Lts-Cans,Autoservicio Independiente,6
+Budweiser,1/3 Lts-Cans,Autoservicio Bc,6
 Budweiser,1/3 Lts-Cans,Kiosco Despensa,6
 Budweiser,1/3 Lts-Cans,Kiosco Bar,6
+Budweiser,1/3 Lts-Cans,Bar,6
 Budweiser,1/3 Lts-Cans,Almacen Autoservice,6
 Budweiser,1/3 Lts-Cans,Almacen,6
 Budweiser,1/3 Lts-Cans,Kiosco/maxikiosco,6
@@ -493,16 +541,20 @@ Budweiser,2/3 Lts-Cans,Verduleria,4
 Budweiser,2/3 Lts-Cans,Vinoteca,4
 Budweiser,2/3 Lts-Cans,Autoservicio Cadena,16
 Budweiser,2/3 Lts-Cans,Autoservicio Independiente,16
+Budweiser,2/3 Lts-Cans,Autoservicio Bc,16
 Budweiser,2/3 Lts-Cans,Kiosco Despensa,16
 Budweiser,2/3 Lts-Cans,Kiosco Bar,16
+Budweiser,2/3 Lts-Cans,Bar,16
 Budweiser,2/3 Lts-Cans,Almacen Autoservice,16
 Budweiser,2/3 Lts-Cans,Almacen,16
 Budweiser,2/3 Lts-Cans,Kiosco/maxikiosco,16
 Budweiser,2/3 Lts-Cans,Tienda De Bebidas,16
 Budweiser,20 Lts-Barrel,Autoservicio Cadena,1
 Budweiser,20 Lts-Barrel,Autoservicio Independiente,1
+Budweiser,20 Lts-Barrel,Autoservicio Bc,1
 Budweiser,20 Lts-Barrel,Kiosco Despensa,1
 Budweiser,20 Lts-Barrel,Kiosco Bar,1
+Budweiser,20 Lts-Barrel,Bar,1
 Budweiser,20 Lts-Barrel,Almacen Autoservice,1
 Budweiser,20 Lts-Barrel,Almacen,1
 Budweiser,20 Lts-Barrel,Kiosco/maxikiosco,1
@@ -521,8 +573,10 @@ Budweiser,20 Lts-Barrel,Verduleria,1
 Budweiser,20 Lts-Barrel,Vinoteca,1
 Budweiser,3/4 Lts-Bottle-OW,Autoservicio Cadena,6
 Budweiser,3/4 Lts-Bottle-OW,Autoservicio Independiente,6
+Budweiser,3/4 Lts-Bottle-OW,Autoservicio Bc,6
 Budweiser,3/4 Lts-Bottle-OW,Kiosco Despensa,6
 Budweiser,3/4 Lts-Bottle-OW,Kiosco Bar,6
+Budweiser,3/4 Lts-Bottle-OW,Bar,6
 Budweiser,3/4 Lts-Bottle-OW,Almacen Autoservice,6
 Budweiser,3/4 Lts-Bottle-OW,Almacen,6
 Budweiser,3/4 Lts-Bottle-OW,Kiosco/maxikiosco,6
@@ -541,6 +595,7 @@ Budweiser,3/4 Lts-Bottle-OW,Verduleria,6
 Budweiser,3/4 Lts-Bottle-OW,Vinoteca,6
 Corona,1/2 Lts-Cans,Kiosco Despensa,6
 Corona,1/2 Lts-Cans,Kiosco Bar,6
+Corona,1/2 Lts-Cans,Bar,6
 Corona,1/2 Lts-Cans,Almacen Autoservice,6
 Corona,1/2 Lts-Cans,Almacen,6
 Corona,1/2 Lts-Cans,Kiosco/maxikiosco,6
@@ -559,10 +614,13 @@ Corona,1/2 Lts-Cans,Verduleria,6
 Corona,1/2 Lts-Cans,Vinoteca,6
 Corona,1/2 Lts-Cans,Autoservicio Cadena,24
 Corona,1/2 Lts-Cans,Autoservicio Independiente,24
+Corona,1/2 Lts-Cans,Autoservicio Bc,24
 Corona,1/3 Lts-Bottle-OW,Autoservicio Cadena,24
 Corona,1/3 Lts-Bottle-OW,Autoservicio Independiente,24
+Corona,1/3 Lts-Bottle-OW,Autoservicio Bc,24
 Corona,1/3 Lts-Bottle-OW,Kiosco Despensa,24
 Corona,1/3 Lts-Bottle-OW,Kiosco Bar,24
+Corona,1/3 Lts-Bottle-OW,Bar,24
 Corona,1/3 Lts-Bottle-OW,Almacen Autoservice,24
 Corona,1/3 Lts-Bottle-OW,Almacen,24
 Corona,1/3 Lts-Bottle-OW,Kiosco/maxikiosco,24
@@ -581,6 +639,7 @@ Corona,1/3 Lts-Bottle-OW,Verduleria,24
 Corona,1/3 Lts-Bottle-OW,Vinoteca,24
 Corona,1/4 Lts-Cans,Kiosco Despensa,10
 Corona,1/4 Lts-Cans,Kiosco Bar,10
+Corona,1/4 Lts-Cans,Bar,10
 Corona,1/4 Lts-Cans,Almacen Autoservice,10
 Corona,1/4 Lts-Cans,Almacen,10
 Corona,1/4 Lts-Cans,Kiosco/maxikiosco,10
@@ -599,10 +658,13 @@ Corona,1/4 Lts-Cans,Verduleria,10
 Corona,1/4 Lts-Cans,Vinoteca,10
 Corona,1/4 Lts-Cans,Autoservicio Cadena,20
 Corona,1/4 Lts-Cans,Autoservicio Independiente,20
+Corona,1/4 Lts-Cans,Autoservicio Bc,20
 Corona,3/4 Lts-Bottle-OW,Autoservicio Cadena,12
 Corona,3/4 Lts-Bottle-OW,Autoservicio Independiente,12
+Corona,3/4 Lts-Bottle-OW,Autoservicio Bc,12
 Corona,3/4 Lts-Bottle-OW,Kiosco Despensa,12
 Corona,3/4 Lts-Bottle-OW,Kiosco Bar,12
+Corona,3/4 Lts-Bottle-OW,Bar,12
 Corona,3/4 Lts-Bottle-OW,Almacen Autoservice,12
 Corona,3/4 Lts-Bottle-OW,Almacen,12
 Corona,3/4 Lts-Bottle-OW,Kiosco/maxikiosco,12
@@ -621,8 +683,10 @@ Corona,3/4 Lts-Bottle-OW,Verduleria,12
 Corona,3/4 Lts-Bottle-OW,Vinoteca,12
 Franziskaner,1/2 Lts-Bottle-OW,Autoservicio Cadena,20
 Franziskaner,1/2 Lts-Bottle-OW,Autoservicio Independiente,20
+Franziskaner,1/2 Lts-Bottle-OW,Autoservicio Bc,20
 Franziskaner,1/2 Lts-Bottle-OW,Kiosco Despensa,20
 Franziskaner,1/2 Lts-Bottle-OW,Kiosco Bar,20
+Franziskaner,1/2 Lts-Bottle-OW,Bar,20
 Franziskaner,1/2 Lts-Bottle-OW,Almacen Autoservice,20
 Franziskaner,1/2 Lts-Bottle-OW,Almacen,20
 Franziskaner,1/2 Lts-Bottle-OW,Kiosco/maxikiosco,20
@@ -641,6 +705,7 @@ Franziskaner,1/2 Lts-Bottle-OW,Verduleria,20
 Franziskaner,1/2 Lts-Bottle-OW,Vinoteca,20
 Goose,1/2 Lts-Cans,Kiosco Despensa,6
 Goose,1/2 Lts-Cans,Kiosco Bar,6
+Goose,1/2 Lts-Cans,Bar,6
 Goose,1/2 Lts-Cans,Almacen Autoservice,6
 Goose,1/2 Lts-Cans,Almacen,6
 Goose,1/2 Lts-Cans,Kiosco/maxikiosco,6
@@ -659,10 +724,13 @@ Goose,1/2 Lts-Cans,Verduleria,6
 Goose,1/2 Lts-Cans,Vinoteca,6
 Goose,1/2 Lts-Cans,Autoservicio Cadena,24
 Goose,1/2 Lts-Cans,Autoservicio Independiente,24
+Goose,1/2 Lts-Cans,Autoservicio Bc,24
 Goose,20 Lts-Barrel,Autoservicio Cadena,1
 Goose,20 Lts-Barrel,Autoservicio Independiente,1
+Goose,20 Lts-Barrel,Autoservicio Bc,1
 Goose,20 Lts-Barrel,Kiosco Despensa,1
 Goose,20 Lts-Barrel,Kiosco Bar,1
+Goose,20 Lts-Barrel,Bar,1
 Goose,20 Lts-Barrel,Almacen Autoservice,1
 Goose,20 Lts-Barrel,Almacen,1
 Goose,20 Lts-Barrel,Kiosco/maxikiosco,1
@@ -681,8 +749,10 @@ Goose,20 Lts-Barrel,Verduleria,1
 Goose,20 Lts-Barrel,Vinoteca,1
 Hanover,1 Lts-Bottle-RET,Autoservicio Cadena,12
 Hanover,1 Lts-Bottle-RET,Autoservicio Independiente,12
+Hanover,1 Lts-Bottle-RET,Autoservicio Bc,12
 Hanover,1 Lts-Bottle-RET,Kiosco Despensa,12
 Hanover,1 Lts-Bottle-RET,Kiosco Bar,12
+Hanover,1 Lts-Bottle-RET,Bar,12
 Hanover,1 Lts-Bottle-RET,Almacen Autoservice,12
 Hanover,1 Lts-Bottle-RET,Almacen,12
 Hanover,1 Lts-Bottle-RET,Kiosco/maxikiosco,12
@@ -701,8 +771,10 @@ Hanover,1 Lts-Bottle-RET,Verduleria,12
 Hanover,1 Lts-Bottle-RET,Vinoteca,12
 Hoegaarden,1/3 Lts-Bottle-OW,Autoservicio Cadena,24
 Hoegaarden,1/3 Lts-Bottle-OW,Autoservicio Independiente,24
+Hoegaarden,1/3 Lts-Bottle-OW,Autoservicio Bc,24
 Hoegaarden,1/3 Lts-Bottle-OW,Kiosco Despensa,24
 Hoegaarden,1/3 Lts-Bottle-OW,Kiosco Bar,24
+Hoegaarden,1/3 Lts-Bottle-OW,Bar,24
 Hoegaarden,1/3 Lts-Bottle-OW,Almacen Autoservice,24
 Hoegaarden,1/3 Lts-Bottle-OW,Almacen,24
 Hoegaarden,1/3 Lts-Bottle-OW,Kiosco/maxikiosco,24
@@ -721,8 +793,10 @@ Hoegaarden,1/3 Lts-Bottle-OW,Verduleria,24
 Hoegaarden,1/3 Lts-Bottle-OW,Vinoteca,24
 Lowenbrau,1/3 Lts-Bottle-OW,Autoservicio Cadena,24
 Lowenbrau,1/3 Lts-Bottle-OW,Autoservicio Independiente,24
+Lowenbrau,1/3 Lts-Bottle-OW,Autoservicio Bc,24
 Lowenbrau,1/3 Lts-Bottle-OW,Kiosco Despensa,24
 Lowenbrau,1/3 Lts-Bottle-OW,Kiosco Bar,24
+Lowenbrau,1/3 Lts-Bottle-OW,Bar,24
 Lowenbrau,1/3 Lts-Bottle-OW,Almacen Autoservice,24
 Lowenbrau,1/3 Lts-Bottle-OW,Almacen,24
 Lowenbrau,1/3 Lts-Bottle-OW,Kiosco/maxikiosco,24
@@ -741,8 +815,10 @@ Lowenbrau,1/3 Lts-Bottle-OW,Verduleria,24
 Lowenbrau,1/3 Lts-Bottle-OW,Vinoteca,24
 Michelob Ultra,1/2 Lts-Cans,Autoservicio Cadena,6
 Michelob Ultra,1/2 Lts-Cans,Autoservicio Independiente,6
+Michelob Ultra,1/2 Lts-Cans,Autoservicio Bc,6
 Michelob Ultra,1/2 Lts-Cans,Kiosco Despensa,6
 Michelob Ultra,1/2 Lts-Cans,Kiosco Bar,6
+Michelob Ultra,1/2 Lts-Cans,Bar,6
 Michelob Ultra,1/2 Lts-Cans,Almacen Autoservice,6
 Michelob Ultra,1/2 Lts-Cans,Almacen,6
 Michelob Ultra,1/2 Lts-Cans,Kiosco/maxikiosco,6
@@ -761,8 +837,10 @@ Michelob Ultra,1/2 Lts-Cans,Verduleria,6
 Michelob Ultra,1/2 Lts-Cans,Vinoteca,6
 Paceña,1/3 Lts-Bottle-OW,Autoservicio Cadena,24
 Paceña,1/3 Lts-Bottle-OW,Autoservicio Independiente,24
+Paceña,1/3 Lts-Bottle-OW,Autoservicio Bc,24
 Paceña,1/3 Lts-Bottle-OW,Kiosco Despensa,24
 Paceña,1/3 Lts-Bottle-OW,Kiosco Bar,24
+Paceña,1/3 Lts-Bottle-OW,Bar,24
 Paceña,1/3 Lts-Bottle-OW,Almacen Autoservice,24
 Paceña,1/3 Lts-Bottle-OW,Almacen,24
 Paceña,1/3 Lts-Bottle-OW,Kiosco/maxikiosco,24
@@ -781,8 +859,10 @@ Paceña,1/3 Lts-Bottle-OW,Verduleria,24
 Paceña,1/3 Lts-Bottle-OW,Vinoteca,24
 Patagonia,1 Lts-Bottle-RET,Autoservicio Cadena,12
 Patagonia,1 Lts-Bottle-RET,Autoservicio Independiente,12
+Patagonia,1 Lts-Bottle-RET,Autoservicio Bc,12
 Patagonia,1 Lts-Bottle-RET,Kiosco Despensa,12
 Patagonia,1 Lts-Bottle-RET,Kiosco Bar,12
+Patagonia,1 Lts-Bottle-RET,Bar,12
 Patagonia,1 Lts-Bottle-RET,Almacen Autoservice,12
 Patagonia,1 Lts-Bottle-RET,Almacen,12
 Patagonia,1 Lts-Bottle-RET,Kiosco/maxikiosco,12
@@ -801,6 +881,7 @@ Patagonia,1 Lts-Bottle-RET,Verduleria,12
 Patagonia,1 Lts-Bottle-RET,Vinoteca,12
 Patagonia,1/2 Lts-Cans,Kiosco Despensa,6
 Patagonia,1/2 Lts-Cans,Kiosco Bar,6
+Patagonia,1/2 Lts-Cans,Bar,6
 Patagonia,1/2 Lts-Cans,Almacen Autoservice,6
 Patagonia,1/2 Lts-Cans,Almacen,6
 Patagonia,1/2 Lts-Cans,Kiosco/maxikiosco,6
@@ -819,10 +900,13 @@ Patagonia,1/2 Lts-Cans,Verduleria,6
 Patagonia,1/2 Lts-Cans,Vinoteca,6
 Patagonia,1/2 Lts-Cans,Autoservicio Cadena,24
 Patagonia,1/2 Lts-Cans,Autoservicio Independiente,24
+Patagonia,1/2 Lts-Cans,Autoservicio Bc,24
 Patagonia,1/3 Lts-Bottle-OW,Autoservicio Cadena,12
 Patagonia,1/3 Lts-Bottle-OW,Autoservicio Independiente,12
+Patagonia,1/3 Lts-Bottle-OW,Autoservicio Bc,12
 Patagonia,1/3 Lts-Bottle-OW,Kiosco Despensa,12
 Patagonia,1/3 Lts-Bottle-OW,Kiosco Bar,12
+Patagonia,1/3 Lts-Bottle-OW,Bar,12
 Patagonia,1/3 Lts-Bottle-OW,Almacen Autoservice,12
 Patagonia,1/3 Lts-Bottle-OW,Almacen,12
 Patagonia,1/3 Lts-Bottle-OW,Kiosco/maxikiosco,12
@@ -841,8 +925,10 @@ Patagonia,1/3 Lts-Bottle-OW,Verduleria,12
 Patagonia,1/3 Lts-Bottle-OW,Vinoteca,12
 Patagonia,1/4 Lts-Cans,Autoservicio Cadena,20
 Patagonia,1/4 Lts-Cans,Autoservicio Independiente,20
+Patagonia,1/4 Lts-Cans,Autoservicio Bc,20
 Patagonia,1/4 Lts-Cans,Kiosco Despensa,20
 Patagonia,1/4 Lts-Cans,Kiosco Bar,20
+Patagonia,1/4 Lts-Cans,Bar,20
 Patagonia,1/4 Lts-Cans,Almacen Autoservice,20
 Patagonia,1/4 Lts-Cans,Almacen,20
 Patagonia,1/4 Lts-Cans,Kiosco/maxikiosco,20
@@ -861,8 +947,10 @@ Patagonia,1/4 Lts-Cans,Verduleria,20
 Patagonia,1/4 Lts-Cans,Vinoteca,20
 Patagonia,20 Lts-Barrel,Autoservicio Cadena,1
 Patagonia,20 Lts-Barrel,Autoservicio Independiente,1
+Patagonia,20 Lts-Barrel,Autoservicio Bc,1
 Patagonia,20 Lts-Barrel,Kiosco Despensa,1
 Patagonia,20 Lts-Barrel,Kiosco Bar,1
+Patagonia,20 Lts-Barrel,Bar,1
 Patagonia,20 Lts-Barrel,Almacen Autoservice,1
 Patagonia,20 Lts-Barrel,Almacen,1
 Patagonia,20 Lts-Barrel,Kiosco/maxikiosco,1
@@ -881,8 +969,10 @@ Patagonia,20 Lts-Barrel,Verduleria,1
 Patagonia,20 Lts-Barrel,Vinoteca,1
 Patagonia,20000 Lts-Barrel,Autoservicio Cadena,1
 Patagonia,20000 Lts-Barrel,Autoservicio Independiente,1
+Patagonia,20000 Lts-Barrel,Autoservicio Bc,1
 Patagonia,20000 Lts-Barrel,Kiosco Despensa,1
 Patagonia,20000 Lts-Barrel,Kiosco Bar,1
+Patagonia,20000 Lts-Barrel,Bar,1
 Patagonia,20000 Lts-Barrel,Almacen Autoservice,1
 Patagonia,20000 Lts-Barrel,Almacen,1
 Patagonia,20000 Lts-Barrel,Kiosco/maxikiosco,1
@@ -901,8 +991,10 @@ Patagonia,20000 Lts-Barrel,Verduleria,1
 Patagonia,20000 Lts-Barrel,Vinoteca,1
 Patagonia,3/4 Lts-Bottle-OW,Autoservicio Cadena,6
 Patagonia,3/4 Lts-Bottle-OW,Autoservicio Independiente,6
+Patagonia,3/4 Lts-Bottle-OW,Autoservicio Bc,6
 Patagonia,3/4 Lts-Bottle-OW,Kiosco Despensa,6
 Patagonia,3/4 Lts-Bottle-OW,Kiosco Bar,6
+Patagonia,3/4 Lts-Bottle-OW,Bar,6
 Patagonia,3/4 Lts-Bottle-OW,Almacen Autoservice,6
 Patagonia,3/4 Lts-Bottle-OW,Almacen,6
 Patagonia,3/4 Lts-Bottle-OW,Kiosco/maxikiosco,6
@@ -921,8 +1013,10 @@ Patagonia,3/4 Lts-Bottle-OW,Verduleria,6
 Patagonia,3/4 Lts-Bottle-OW,Vinoteca,6
 Patagonia,30 Lts-Barrel,Autoservicio Cadena,1
 Patagonia,30 Lts-Barrel,Autoservicio Independiente,1
+Patagonia,30 Lts-Barrel,Autoservicio Bc,1
 Patagonia,30 Lts-Barrel,Kiosco Despensa,1
 Patagonia,30 Lts-Barrel,Kiosco Bar,1
+Patagonia,30 Lts-Barrel,Bar,1
 Patagonia,30 Lts-Barrel,Almacen Autoservice,1
 Patagonia,30 Lts-Barrel,Almacen,1
 Patagonia,30 Lts-Barrel,Kiosco/maxikiosco,1
@@ -941,8 +1035,10 @@ Patagonia,30 Lts-Barrel,Verduleria,1
 Patagonia,30 Lts-Barrel,Vinoteca,1
 Pilsen,1/3 Lts-Bottle-OW,Autoservicio Cadena,24
 Pilsen,1/3 Lts-Bottle-OW,Autoservicio Independiente,24
+Pilsen,1/3 Lts-Bottle-OW,Autoservicio Bc,24
 Pilsen,1/3 Lts-Bottle-OW,Kiosco Despensa,24
 Pilsen,1/3 Lts-Bottle-OW,Kiosco Bar,24
+Pilsen,1/3 Lts-Bottle-OW,Bar,24
 Pilsen,1/3 Lts-Bottle-OW,Almacen Autoservice,24
 Pilsen,1/3 Lts-Bottle-OW,Almacen,24
 Pilsen,1/3 Lts-Bottle-OW,Kiosco/maxikiosco,24
@@ -961,8 +1057,10 @@ Pilsen,1/3 Lts-Bottle-OW,Verduleria,24
 Pilsen,1/3 Lts-Bottle-OW,Vinoteca,24
 Quilmes,1 Lts-Bottle-RET,Autoservicio Cadena,12
 Quilmes,1 Lts-Bottle-RET,Autoservicio Independiente,12
+Quilmes,1 Lts-Bottle-RET,Autoservicio Bc,12
 Quilmes,1 Lts-Bottle-RET,Kiosco Despensa,12
 Quilmes,1 Lts-Bottle-RET,Kiosco Bar,12
+Quilmes,1 Lts-Bottle-RET,Bar,12
 Quilmes,1 Lts-Bottle-RET,Almacen Autoservice,12
 Quilmes,1 Lts-Bottle-RET,Almacen,12
 Quilmes,1 Lts-Bottle-RET,Kiosco/maxikiosco,12
@@ -981,8 +1079,10 @@ Quilmes,1 Lts-Bottle-RET,Verduleria,12
 Quilmes,1 Lts-Bottle-RET,Vinoteca,12
 Quilmes,1.2 Lts-Bottle-RET,Autoservicio Cadena,10
 Quilmes,1.2 Lts-Bottle-RET,Autoservicio Independiente,10
+Quilmes,1.2 Lts-Bottle-RET,Autoservicio Bc,10
 Quilmes,1.2 Lts-Bottle-RET,Kiosco Despensa,10
 Quilmes,1.2 Lts-Bottle-RET,Kiosco Bar,10
+Quilmes,1.2 Lts-Bottle-RET,Bar,10
 Quilmes,1.2 Lts-Bottle-RET,Almacen Autoservice,10
 Quilmes,1.2 Lts-Bottle-RET,Almacen,10
 Quilmes,1.2 Lts-Bottle-RET,Kiosco/maxikiosco,10
@@ -1001,8 +1101,10 @@ Quilmes,1.2 Lts-Bottle-RET,Verduleria,10
 Quilmes,1.2 Lts-Bottle-RET,Vinoteca,10
 Quilmes,1/2 Lts-Bottle-OW,Autoservicio Cadena,12
 Quilmes,1/2 Lts-Bottle-OW,Autoservicio Independiente,12
+Quilmes,1/2 Lts-Bottle-OW,Autoservicio Bc,12
 Quilmes,1/2 Lts-Bottle-OW,Kiosco Despensa,12
 Quilmes,1/2 Lts-Bottle-OW,Kiosco Bar,12
+Quilmes,1/2 Lts-Bottle-OW,Bar,12
 Quilmes,1/2 Lts-Bottle-OW,Almacen Autoservice,12
 Quilmes,1/2 Lts-Bottle-OW,Almacen,12
 Quilmes,1/2 Lts-Bottle-OW,Kiosco/maxikiosco,12
@@ -1021,6 +1123,7 @@ Quilmes,1/2 Lts-Bottle-OW,Verduleria,12
 Quilmes,1/2 Lts-Bottle-OW,Vinoteca,12
 Quilmes,1/2 Lts-Cans,Kiosco Despensa,6
 Quilmes,1/2 Lts-Cans,Kiosco Bar,6
+Quilmes,1/2 Lts-Cans,Bar,6
 Quilmes,1/2 Lts-Cans,Almacen Autoservice,6
 Quilmes,1/2 Lts-Cans,Almacen,6
 Quilmes,1/2 Lts-Cans,Kiosco/maxikiosco,6
@@ -1039,10 +1142,13 @@ Quilmes,1/2 Lts-Cans,Verduleria,6
 Quilmes,1/2 Lts-Cans,Vinoteca,6
 Quilmes,1/2 Lts-Cans,Autoservicio Cadena,24
 Quilmes,1/2 Lts-Cans,Autoservicio Independiente,24
+Quilmes,1/2 Lts-Cans,Autoservicio Bc,24
 Quilmes,1/3 Lts-Bottle-OW,Autoservicio Cadena,6
 Quilmes,1/3 Lts-Bottle-OW,Autoservicio Independiente,6
+Quilmes,1/3 Lts-Bottle-OW,Autoservicio Bc,6
 Quilmes,1/3 Lts-Bottle-OW,Kiosco Despensa,6
 Quilmes,1/3 Lts-Bottle-OW,Kiosco Bar,6
+Quilmes,1/3 Lts-Bottle-OW,Bar,6
 Quilmes,1/3 Lts-Bottle-OW,Almacen Autoservice,6
 Quilmes,1/3 Lts-Bottle-OW,Almacen,6
 Quilmes,1/3 Lts-Bottle-OW,Kiosco/maxikiosco,6
@@ -1061,8 +1167,10 @@ Quilmes,1/3 Lts-Bottle-OW,Verduleria,6
 Quilmes,1/3 Lts-Bottle-OW,Vinoteca,6
 Quilmes,1/3 Lts-Bottle-RET,Autoservicio Cadena,24
 Quilmes,1/3 Lts-Bottle-RET,Autoservicio Independiente,24
+Quilmes,1/3 Lts-Bottle-RET,Autoservicio Bc,24
 Quilmes,1/3 Lts-Bottle-RET,Kiosco Despensa,24
 Quilmes,1/3 Lts-Bottle-RET,Kiosco Bar,24
+Quilmes,1/3 Lts-Bottle-RET,Bar,24
 Quilmes,1/3 Lts-Bottle-RET,Almacen Autoservice,24
 Quilmes,1/3 Lts-Bottle-RET,Almacen,24
 Quilmes,1/3 Lts-Bottle-RET,Kiosco/maxikiosco,24
@@ -1081,8 +1189,10 @@ Quilmes,1/3 Lts-Bottle-RET,Verduleria,24
 Quilmes,1/3 Lts-Bottle-RET,Vinoteca,24
 Quilmes,1/3 Lts-Cans,Autoservicio Cadena,24
 Quilmes,1/3 Lts-Cans,Autoservicio Independiente,24
+Quilmes,1/3 Lts-Cans,Autoservicio Bc,24
 Quilmes,1/3 Lts-Cans,Kiosco Despensa,24
 Quilmes,1/3 Lts-Cans,Kiosco Bar,24
+Quilmes,1/3 Lts-Cans,Bar,24
 Quilmes,1/3 Lts-Cans,Almacen Autoservice,24
 Quilmes,1/3 Lts-Cans,Almacen,24
 Quilmes,1/3 Lts-Cans,Kiosco/maxikiosco,24
@@ -1101,8 +1211,10 @@ Quilmes,1/3 Lts-Cans,Verduleria,24
 Quilmes,1/3 Lts-Cans,Vinoteca,24
 Quilmes,20 Lts-Barrel,Autoservicio Cadena,1
 Quilmes,20 Lts-Barrel,Autoservicio Independiente,1
+Quilmes,20 Lts-Barrel,Autoservicio Bc,1
 Quilmes,20 Lts-Barrel,Kiosco Despensa,1
 Quilmes,20 Lts-Barrel,Kiosco Bar,1
+Quilmes,20 Lts-Barrel,Bar,1
 Quilmes,20 Lts-Barrel,Almacen Autoservice,1
 Quilmes,20 Lts-Barrel,Almacen,1
 Quilmes,20 Lts-Barrel,Kiosco/maxikiosco,1
@@ -1121,8 +1233,10 @@ Quilmes,20 Lts-Barrel,Verduleria,1
 Quilmes,20 Lts-Barrel,Vinoteca,1
 Quilmes,30 Lts-Barrel,Autoservicio Cadena,1
 Quilmes,30 Lts-Barrel,Autoservicio Independiente,1
+Quilmes,30 Lts-Barrel,Autoservicio Bc,1
 Quilmes,30 Lts-Barrel,Kiosco Despensa,1
 Quilmes,30 Lts-Barrel,Kiosco Bar,1
+Quilmes,30 Lts-Barrel,Bar,1
 Quilmes,30 Lts-Barrel,Almacen Autoservice,1
 Quilmes,30 Lts-Barrel,Almacen,1
 Quilmes,30 Lts-Barrel,Kiosco/maxikiosco,1
@@ -1141,8 +1255,10 @@ Quilmes,30 Lts-Barrel,Verduleria,1
 Quilmes,30 Lts-Barrel,Vinoteca,1
 Quilmes,50 Lts-Barrel,Autoservicio Cadena,1
 Quilmes,50 Lts-Barrel,Autoservicio Independiente,1
+Quilmes,50 Lts-Barrel,Autoservicio Bc,1
 Quilmes,50 Lts-Barrel,Kiosco Despensa,1
 Quilmes,50 Lts-Barrel,Kiosco Bar,1
+Quilmes,50 Lts-Barrel,Bar,1
 Quilmes,50 Lts-Barrel,Almacen Autoservice,1
 Quilmes,50 Lts-Barrel,Almacen,1
 Quilmes,50 Lts-Barrel,Kiosco/maxikiosco,1
@@ -1161,8 +1277,10 @@ Quilmes,50 Lts-Barrel,Verduleria,1
 Quilmes,50 Lts-Barrel,Vinoteca,1
 Stella Artois,1 Lts-Bottle-RET,Autoservicio Cadena,12
 Stella Artois,1 Lts-Bottle-RET,Autoservicio Independiente,12
+Stella Artois,1 Lts-Bottle-RET,Autoservicio Bc,12
 Stella Artois,1 Lts-Bottle-RET,Kiosco Despensa,12
 Stella Artois,1 Lts-Bottle-RET,Kiosco Bar,12
+Stella Artois,1 Lts-Bottle-RET,Bar,12
 Stella Artois,1 Lts-Bottle-RET,Almacen Autoservice,12
 Stella Artois,1 Lts-Bottle-RET,Almacen,12
 Stella Artois,1 Lts-Bottle-RET,Kiosco/maxikiosco,12
@@ -1181,6 +1299,7 @@ Stella Artois,1 Lts-Bottle-RET,Verduleria,12
 Stella Artois,1 Lts-Bottle-RET,Vinoteca,12
 Stella Artois,1/2 Lts-Cans,Kiosco Despensa,6
 Stella Artois,1/2 Lts-Cans,Kiosco Bar,6
+Stella Artois,1/2 Lts-Cans,Bar,6
 Stella Artois,1/2 Lts-Cans,Almacen Autoservice,6
 Stella Artois,1/2 Lts-Cans,Almacen,6
 Stella Artois,1/2 Lts-Cans,Kiosco/maxikiosco,6
@@ -1199,10 +1318,13 @@ Stella Artois,1/2 Lts-Cans,Verduleria,6
 Stella Artois,1/2 Lts-Cans,Vinoteca,6
 Stella Artois,1/2 Lts-Cans,Autoservicio Cadena,24
 Stella Artois,1/2 Lts-Cans,Autoservicio Independiente,24
+Stella Artois,1/2 Lts-Cans,Autoservicio Bc,24
 Stella Artois,1/3 Lts-Bottle-OW,Autoservicio Cadena,24
 Stella Artois,1/3 Lts-Bottle-OW,Autoservicio Independiente,24
+Stella Artois,1/3 Lts-Bottle-OW,Autoservicio Bc,24
 Stella Artois,1/3 Lts-Bottle-OW,Kiosco Despensa,24
 Stella Artois,1/3 Lts-Bottle-OW,Kiosco Bar,24
+Stella Artois,1/3 Lts-Bottle-OW,Bar,24
 Stella Artois,1/3 Lts-Bottle-OW,Almacen Autoservice,24
 Stella Artois,1/3 Lts-Bottle-OW,Almacen,24
 Stella Artois,1/3 Lts-Bottle-OW,Kiosco/maxikiosco,24
@@ -1221,8 +1343,10 @@ Stella Artois,1/3 Lts-Bottle-OW,Verduleria,24
 Stella Artois,1/3 Lts-Bottle-OW,Vinoteca,24
 Stella Artois,1/3 Lts-Cans,Autoservicio Cadena,24
 Stella Artois,1/3 Lts-Cans,Autoservicio Independiente,24
+Stella Artois,1/3 Lts-Cans,Autoservicio Bc,24
 Stella Artois,1/3 Lts-Cans,Kiosco Despensa,24
 Stella Artois,1/3 Lts-Cans,Kiosco Bar,24
+Stella Artois,1/3 Lts-Cans,Bar,24
 Stella Artois,1/3 Lts-Cans,Almacen Autoservice,24
 Stella Artois,1/3 Lts-Cans,Almacen,24
 Stella Artois,1/3 Lts-Cans,Kiosco/maxikiosco,24
@@ -1241,8 +1365,10 @@ Stella Artois,1/3 Lts-Cans,Verduleria,24
 Stella Artois,1/3 Lts-Cans,Vinoteca,24
 Stella Artois,1/4 Lts-Cans,Autoservicio Cadena,20
 Stella Artois,1/4 Lts-Cans,Autoservicio Independiente,20
+Stella Artois,1/4 Lts-Cans,Autoservicio Bc,20
 Stella Artois,1/4 Lts-Cans,Kiosco Despensa,20
 Stella Artois,1/4 Lts-Cans,Kiosco Bar,20
+Stella Artois,1/4 Lts-Cans,Bar,20
 Stella Artois,1/4 Lts-Cans,Almacen Autoservice,20
 Stella Artois,1/4 Lts-Cans,Almacen,20
 Stella Artois,1/4 Lts-Cans,Kiosco/maxikiosco,20
@@ -1261,8 +1387,10 @@ Stella Artois,1/4 Lts-Cans,Verduleria,20
 Stella Artois,1/4 Lts-Cans,Vinoteca,20
 Stella Artois,20 Lts-Barrel,Autoservicio Cadena,1
 Stella Artois,20 Lts-Barrel,Autoservicio Independiente,1
+Stella Artois,20 Lts-Barrel,Autoservicio Bc,1
 Stella Artois,20 Lts-Barrel,Kiosco Despensa,1
 Stella Artois,20 Lts-Barrel,Kiosco Bar,1
+Stella Artois,20 Lts-Barrel,Bar,1
 Stella Artois,20 Lts-Barrel,Almacen Autoservice,1
 Stella Artois,20 Lts-Barrel,Almacen,1
 Stella Artois,20 Lts-Barrel,Kiosco/maxikiosco,1
@@ -1281,8 +1409,10 @@ Stella Artois,20 Lts-Barrel,Verduleria,1
 Stella Artois,20 Lts-Barrel,Vinoteca,1
 Stella Artois,3/4 Lts-Bottle-OW,Autoservicio Cadena,6
 Stella Artois,3/4 Lts-Bottle-OW,Autoservicio Independiente,6
+Stella Artois,3/4 Lts-Bottle-OW,Autoservicio Bc,6
 Stella Artois,3/4 Lts-Bottle-OW,Kiosco Despensa,6
 Stella Artois,3/4 Lts-Bottle-OW,Kiosco Bar,6
+Stella Artois,3/4 Lts-Bottle-OW,Bar,6
 Stella Artois,3/4 Lts-Bottle-OW,Almacen Autoservice,6
 Stella Artois,3/4 Lts-Bottle-OW,Almacen,6
 Stella Artois,3/4 Lts-Bottle-OW,Kiosco/maxikiosco,6
@@ -1301,8 +1431,10 @@ Stella Artois,3/4 Lts-Bottle-OW,Verduleria,6
 Stella Artois,3/4 Lts-Bottle-OW,Vinoteca,6
 Stella Artois,30 Lts-Barrel,Autoservicio Cadena,1
 Stella Artois,30 Lts-Barrel,Autoservicio Independiente,1
+Stella Artois,30 Lts-Barrel,Autoservicio Bc,1
 Stella Artois,30 Lts-Barrel,Kiosco Despensa,1
 Stella Artois,30 Lts-Barrel,Kiosco Bar,1
+Stella Artois,30 Lts-Barrel,Bar,1
 Stella Artois,30 Lts-Barrel,Almacen Autoservice,1
 Stella Artois,30 Lts-Barrel,Almacen,1
 Stella Artois,30 Lts-Barrel,Kiosco/maxikiosco,1
@@ -1321,8 +1453,10 @@ Stella Artois,30 Lts-Barrel,Verduleria,1
 Stella Artois,30 Lts-Barrel,Vinoteca,1
 Temple,1 Lts-Bottle-RET,Autoservicio Cadena,12
 Temple,1 Lts-Bottle-RET,Autoservicio Independiente,12
+Temple,1 Lts-Bottle-RET,Autoservicio Bc,12
 Temple,1 Lts-Bottle-RET,Kiosco Despensa,12
 Temple,1 Lts-Bottle-RET,Kiosco Bar,12
+Temple,1 Lts-Bottle-RET,Bar,12
 Temple,1 Lts-Bottle-RET,Almacen Autoservice,12
 Temple,1 Lts-Bottle-RET,Almacen,12
 Temple,1 Lts-Bottle-RET,Kiosco/maxikiosco,12
@@ -1341,6 +1475,7 @@ Temple,1 Lts-Bottle-RET,Verduleria,12
 Temple,1 Lts-Bottle-RET,Vinoteca,12
 Temple,1/2 Lts-Cans,Kiosco Despensa,6
 Temple,1/2 Lts-Cans,Kiosco Bar,6
+Temple,1/2 Lts-Cans,Bar,6
 Temple,1/2 Lts-Cans,Almacen Autoservice,6
 Temple,1/2 Lts-Cans,Almacen,6
 Temple,1/2 Lts-Cans,Kiosco/maxikiosco,6
@@ -1359,10 +1494,13 @@ Temple,1/2 Lts-Cans,Verduleria,6
 Temple,1/2 Lts-Cans,Vinoteca,6
 Temple,1/2 Lts-Cans,Autoservicio Cadena,24
 Temple,1/2 Lts-Cans,Autoservicio Independiente,24
+Temple,1/2 Lts-Cans,Autoservicio Bc,24
 Temple,20 Lts-Barrel,Autoservicio Cadena,1
 Temple,20 Lts-Barrel,Autoservicio Independiente,1
+Temple,20 Lts-Barrel,Autoservicio Bc,1
 Temple,20 Lts-Barrel,Kiosco Despensa,1
 Temple,20 Lts-Barrel,Kiosco Bar,1
+Temple,20 Lts-Barrel,Bar,1
 Temple,20 Lts-Barrel,Almacen Autoservice,1
 Temple,20 Lts-Barrel,Almacen,1
 Temple,20 Lts-Barrel,Kiosco/maxikiosco,1
@@ -1381,8 +1519,10 @@ Temple,20 Lts-Barrel,Verduleria,1
 Temple,20 Lts-Barrel,Vinoteca,1
 bajo cero,1 Lts-Bottle-RET,Autoservicio Cadena,12
 bajo cero,1 Lts-Bottle-RET,Autoservicio Independiente,12
+bajo cero,1 Lts-Bottle-RET,Autoservicio Bc,12
 bajo cero,1 Lts-Bottle-RET,Kiosco Despensa,12
 bajo cero,1 Lts-Bottle-RET,Kiosco Bar,12
+bajo cero,1 Lts-Bottle-RET,Bar,12
 bajo cero,1 Lts-Bottle-RET,Almacen Autoservice,12
 bajo cero,1 Lts-Bottle-RET,Almacen,12
 bajo cero,1 Lts-Bottle-RET,Kiosco/maxikiosco,12
@@ -1401,8 +1541,10 @@ bajo cero,1 Lts-Bottle-RET,Verduleria,12
 bajo cero,1 Lts-Bottle-RET,Vinoteca,12
 bajo cero,1.2 Lts-Bottle-RET,Autoservicio Cadena,10
 bajo cero,1.2 Lts-Bottle-RET,Autoservicio Independiente,10
+bajo cero,1.2 Lts-Bottle-RET,Autoservicio Bc,10
 bajo cero,1.2 Lts-Bottle-RET,Kiosco Despensa,10
 bajo cero,1.2 Lts-Bottle-RET,Kiosco Bar,10
+bajo cero,1.2 Lts-Bottle-RET,Bar,10
 bajo cero,1.2 Lts-Bottle-RET,Almacen Autoservice,10
 bajo cero,1.2 Lts-Bottle-RET,Almacen,10
 bajo cero,1.2 Lts-Bottle-RET,Kiosco/maxikiosco,10
